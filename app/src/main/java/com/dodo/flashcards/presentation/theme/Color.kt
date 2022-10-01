@@ -1,4 +1,4 @@
-package com.dodo.flashcards.ui.theme
+package com.dodo.flashcards.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
